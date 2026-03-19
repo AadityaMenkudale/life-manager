@@ -1,0 +1,1 @@
+export type View = 'dashboard' | 'tasks' | 'health' | 'habits' | 'analytics' | 'counter';
